@@ -1,6 +1,10 @@
 # BombermanJava
 Recreacion del videojuego Bomberman desarrollado para un proyecto escolar
 
+## Tabla de Contenidos
+* [Desarrollado con](#Desarrollado-con)
+* [Controles]
+
 ## Desarrollado con:
 * **Java**
 * **Junity**: Motor grafico desarrollado con fines educativos por un profesor
