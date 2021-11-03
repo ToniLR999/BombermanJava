@@ -3,7 +3,7 @@ Recreacion del videojuego Bomberman desarrollado para un proyecto escolar
 
 ## Tabla de Contenidos
 * [Desarrollado con](#Desarrollado-con)
-* [Controles]
+* [Controles](#controles)
 
 ## Desarrollado con:
 * **Java**
